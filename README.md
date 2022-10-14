@@ -1,1 +1,1 @@
-# ProgrammingLab
+run= "/bin/bash"
